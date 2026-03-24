@@ -1,5 +1,6 @@
 public class Addbinary {
-    public static void main() {
+    //add binary no
+    static void main() {
         String a="1101";
         String b="11000";
 
